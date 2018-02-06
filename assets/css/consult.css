@@ -1,0 +1,16 @@
+.parent {
+  display: table;
+}
+
+.header {
+  vertical-align: middle;
+  display: table-cell;
+}
+span {
+  vertical-align: middle;
+  display: table-cell;
+  margin-right: 100px;
+}
+.child1{
+	width: 
+}

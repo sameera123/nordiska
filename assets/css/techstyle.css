@@ -1,0 +1,120 @@
+body{
+  font-family: 'PT Serif', serif; 
+}
+
+
+
+.site-selection{
+  text-align:center;
+  padding:60px 0px;
+}
+
+#welcome p{
+  max-width:800px;
+  margin:0 auto;
+  font-size:20px;
+}
+
+.site-selelction h1{
+  font-weight:normal;
+  margin-bottom:30px;
+}
+
+.why #glyphicon glyphicon-user{
+}
+
+i.glyphicon.glyphicon-user{
+  font-size:100px;
+  font-weight:normal;
+  color:rgb(28,28,112);
+}
+
+i.glyphicon.glyphicon-signal{
+  font-size:100px;
+  font-weight:normal;
+  color:rgb(31,31,136);
+}
+
+p{
+  font-size:18px;
+}
+
+.dark-section{
+  background-color:rgb(186,202,244);
+}
+
+h1{
+  margin-top:105px;
+}
+
+#logo{
+  max-height:100px;
+}
+
+.logo{
+  max-height:55px;
+  margin-right:10px;
+  display:inline-block;
+  margin-top:-3px;
+  margin-bottom:-3px;
+}
+
+#myfooter .facebook:hover{
+  color: #0077e2;
+}
+
+#myfooter .google:hover {
+    color: #ef1a1a;
+}
+
+#myfooter .linkedin:hover {
+    color: #0077B5;
+}
+
+#myfooter .youtube:hover {
+    color: #FF0000;
+}
+
+#myfooter #name{
+  font-family: arial;
+}
+
+.zoomClass{
+  transition: all .2s ease-in-out;
+}
+
+.zoomClass:hover{
+  transform: scale(1.1);
+}
+
+.zoomClassWrapper{
+  overflow: hidden;
+
+}
+
+.zoomClassWrapper:hover{
+  position: relative;
+  
+}
+
+.overlaytext{
+  position: absolute;
+  top: 0;
+  display: none;
+
+}
+
+.zoomClassWrapper:hover .overlaytext{
+  display: block;
+   background-color: black;
+  opacity: 10 ;
+}
+
+
+
+
+
+
+
+
+

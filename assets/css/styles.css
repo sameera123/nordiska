@@ -1,0 +1,217 @@
+body{
+  
+}
+
+#promo.jumbotron{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/header5.jpg)no-repeat;
+  background-size:cover;
+  font-family: 'PT Serif', serif;
+  
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: white;
+  font-weight: bold;
+}
+
+
+
+.site-selection{
+  font-family: Georgia, serif;
+  font-size: 20px;
+  text-align:center;
+  padding:60px 0px;
+  font-family: 'PT Serif', serif;
+}
+
+#welcome p{
+  max-width:800px;
+  margin:0 auto;
+  font-size:20px;
+}
+
+.site-selelction h1{
+  font-weight:normal;
+  margin-bottom:30px;
+}
+
+
+
+i.glyphicon.glyphicon-user{
+  font-size:100px;
+  font-weight:normal;
+  color:rgb(28,28,112);
+}
+
+i.glyphicon.glyphicon-signal{
+  font-size:100px;
+  font-weight:normal;
+  color:rgb(31,31,136);
+}
+
+
+.dark-section{
+  background-color:rgb(186,202,244);
+}
+
+
+
+#logo{
+  max-height:100px;
+}
+
+.logo{
+  max-height:55px;
+  margin-right:10px;
+
+  margin-top:-3px;
+  margin-bottom:-3px;
+}
+
+#myfooter .facebook:hover{
+  color: #0077e2;
+}
+
+#myfooter .google:hover {
+    color: #ef1a1a;
+}
+
+#myfooter .linkedin:hover {
+    color: #0077B5;
+}
+
+#myfooter .youtube:hover {
+    color: #FF0000;
+}
+
+#myfooter #name{
+  font-family: arial;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+
+.navbar-brand>img {
+  padding: 7px 15px;
+}
+
+
+.intro {
+  height: 100vh;
+}
+
+
+section{
+  margin-top: 0px;
+  background:url(../../assets/img/header5.jpg);
+  background-size:cover;
+  width: auto;
+  height: auto;
+}
+
+
+.opaque-navbar {
+  background-color: rgba(0,0,0,0.0);
+/* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
+  height: 60px;
+  border-bottom: 0px;
+  transition: background-color .5s ease 0s;
+}
+
+.opaque-navbar.opaque {
+  background-color:white;
+  height: 60px;
+  transition: background-color .5s ease 0s;
+}
+
+.navbar-default .navbar-nav>li>a.opque-text{
+  color: #1c4263;
+  font-weight: bold;
+}
+
+.opque-text{
+  color: #1c4263;
+  font-weight: bold;
+}
+
+.header-text {
+  font-family: 'PT Serif', serif;
+  font-size: 50px;
+  position: relative;
+  margin-left: 200px;
+  top:50%;
+}
+
+.header-text>p>span{
+  /* color: #C0C0C0; */
+  font-family: 'Anton', sans-serif;
+  font-size: 150px;
+}
+
+
+.form-area
+{
+  background-color: #FAFAFA;
+padding: 10px 40px 60px;
+margin: 10px 0px 60px;
+border: 1px solid GREY;
+}
+
+
+
+/* Qotas */
+blockquote {
+  font-family: Georgia, serif;
+  position: relative;
+  margin: 0.5em;
+  padding: 0.5em 2em 0.5em 3em;
+  border-left:none
+}
+
+blockquote:before {
+  font-family: Georgia, serif;
+  position: absolute;
+  font-size: 6em;
+  line-height: 1;
+  top: 0;
+  left: 0;
+  content: "\201C";
+}
+blockquote:after {
+  font-family: Georgia, serif;
+  position: absolute;
+ 
+  float:right;
+  font-size:6em;
+  line-height: 1;
+  right:0;
+  bottom:-0.5em;
+  content: "\201D";
+}
+blockquote footer {
+  padding: 0 2em 0 0;
+  text-align:right;
+}
+blockquote cite:before {
+  content: "\2013";
+}
+
+
+
+
+
+
+
+
+
+
+
+
